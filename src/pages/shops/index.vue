@@ -5,7 +5,7 @@
           <img src="https://www.mywhh.com/pc/img/test-title.png" alt="">
         </div>
         <div class="shopIofo">
-            <h2>中坝水站（67600411）</h2>
+            <h2>中坝水站（676004111）</h2>
             <van-rate
               readonly
               :value="value"
